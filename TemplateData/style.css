@@ -12,7 +12,7 @@ body { padding: 0; margin: 0 }
     position: absolute;
     top: 50%; /* Центр по вертикали */
     left: 50%; /* Центр по горизонтали */
-    transform: translate(-50%, -90%); /* Смещение для приподнятия (настроить -60% по вкусу) */
+    transform: translate(-50%, -110%); /* Смещение для приподнятия (настроить -60% по вкусу) */
 }
 #unity-progress-bar-empty { width: 141px; height: 18px; margin-top: 10px; margin-left: 6.5px; background: url('progress-bar-empty-dark.png') no-repeat center }
 #unity-progress-bar-full { width: 0%; height: 18px; margin-top: 10px; background: url('progress-bar-full-dark.png') no-repeat center }
